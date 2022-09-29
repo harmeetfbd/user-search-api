@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: user-search-api
+
+user:
+  list:
+    query:
+      url: https://jsonplaceholder.typicode.com/users
+
+server:
+  port: 9090
